@@ -17,7 +17,7 @@ I am a front-end react developer based in Calgary, Canada.
 
 ✉️  You can email me at dipikahazarika2414@gmail.com 
 
-📄  You can check my [Resume]( https://docs.google.com/document/d/e/2PACX-1vQhCZiV2BCdc-mxR5XLq6lv6d92cKPF7OMVEr-6U0RzMhS0FXpx1QlPAH2uwCCRRQ/pub)  for more details about work experience.
+📄  You can check my [Resume]( https://docs.google.com/document/d/1iXYdI6S_kGS5ROXnWrAqbR9_jIwybH_1NGu65pYVpEc/edit?usp=sharing)  for more details about work experience.
 
 
 ---
